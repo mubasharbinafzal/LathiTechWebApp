@@ -65,11 +65,11 @@ const Navbar = () => {
                   <li className="nav-item">
                     <Link href="#">
                       <a className="nav-link">
-                        Home <i className="fas fa-chevron-down"></i>
+                        {/* Home <i className="fas fa-chevron-down"></i> */}
                       </a>
                     </Link>
 
-                    <ul className="dropdown-menu">
+                    {/* <ul className="dropdown-menu">
                       <li className="nav-item">
                         <Link href="/" activeClassName="active">
                           <a className="nav-link">Home One</a>
@@ -93,7 +93,7 @@ const Navbar = () => {
                           <a className="nav-link">Home Four</a>
                         </Link>
                       </li>
-                    </ul>
+                    </ul> */}
                   </li>
 
                   <li className="nav-item">
