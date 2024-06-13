@@ -16,7 +16,7 @@ const MainBanner = () => {
                       data-aos-delay="100"
                       data-aos-duration="1200"
                     >
-                      Big Data And Analytics
+                      LathiTech
                     </h1>
 
                     <div
