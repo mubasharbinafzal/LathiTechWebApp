@@ -62,12 +62,18 @@ const Navbar = () => {
 
               <div className={classOne} id="navbarSupportedContent">
                 <ul className="navbar-nav m-auto">
-                  <li className="nav-item">
-                    <Link href="#">
-                      <a className="nav-link">
-                        {/* Home <i className="fas fa-chevron-down"></i> */}
-                      </a>
+
+                <li className="nav-item">
+                    <Link href="/" activeClassName="active">
+                      <a className="nav-link">Home</a>
                     </Link>
+                  </li>
+                  <li className="nav-item">
+                    {/* <Link href="#">
+                      <a className="nav-link">
+                        Home <i className="fas fa-chevron-down"></i>
+                      </a>
+                    </Link> */}
 
                     {/* <ul className="dropdown-menu">
                       <li className="nav-item">
