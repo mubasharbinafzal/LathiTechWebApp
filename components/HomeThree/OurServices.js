@@ -8,7 +8,8 @@ const OurServices = () => {
         <div className="container">
           <div className="section-title">
             <span>Our Services</span>
-            <h2>Explore Our Data Services</h2>
+            <h2>Our Services Are
+            Customised To Your Needs</h2>
           </div>
 
           <div className="row align-items-center justify-content-center">

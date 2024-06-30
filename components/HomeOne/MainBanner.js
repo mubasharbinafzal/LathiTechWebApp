@@ -25,10 +25,8 @@ const MainBanner = () => {
                       data-aos-duration="1200"
                     >
                       <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                        sed do eiusmod tempor incididunt ut labore et dolore
-                        magna aliqua. Ut enim ad minim veniam, quis nostrud
-                        exercitation ullamco laboris nisi ut aliquip.
+                      
+                      Empowering your business with cutting-edge native mobile and web applications. Our expertise in validation, design, and development ensures robust solutions tailored to drive growth and achieve your strategic objectives.
                       </p>
                     </div>
 
@@ -56,63 +54,47 @@ const MainBanner = () => {
                 </div>
 
                 <div className="col-lg-6 col-md-12">
-                  <div className="banner-image">
+                <div className="banner-image">
                     {/* Shape images */}
                     <img
-                      src="/images/home-two/home-two-shape1.png"
-                      alt="image"
-                      data-aos="fade-up"
-                      data-aos-delay="100"
-                      data-aos-duration="1200"
-                    />
-
-                    <img
-                      src="/images/home-two/home-two-shape2.png"
-                      alt="image"
-                      data-aos="fade-left"
-                      data-aos-delay="100"
-                      data-aos-duration="1200"
-                    />
-
-                    <img
-                      src="/images/home-two/home-two-shape3.png"
-                      alt="image"
-                      data-aos="fade-right"
-                      data-aos-delay="100"
-                      data-aos-duration="1200"
-                    />
-
-                    <img
-                      src="/images/home-two/home-two-shape4.png"
-                      alt="image"
-                      data-aos="fade-up"
-                      data-aos-delay="100"
-                      data-aos-duration="1200"
-                    />
-
-                    <img
-                      src="/images/home-two/home-two-shape5.png"
+                      src="/images/home-one/home-one-shape1.png"
                       alt="image"
                       data-aos="zoom-in"
+                      data-aos-delay="100"
+                      data-aos-duration="1200"
+                    />
+
+                    <img
+                      src="/images/home-one/home-one-shape2.png"
+                      alt="image"
+                      data-aos="fade-up"
+                      data-aos-delay="100"
+                      data-aos-duration="1200"
+                    />
+
+                    <img
+                      src="/images/home-one/home-one-shape3.png"
+                      alt="image"
+                      data-aos="zoom-in"
+                      data-aos-delay="100"
+                      data-aos-duration="1200"
+                    />
+
+                    <img
+                      src="/images/home-one/home-one-shape4.png"
+                      alt="image"
+                      data-aos="zoom-in-up"
                       data-aos-delay="100"
                       data-aos-duration="1200"
                     />
 
                     {/* Main image */}
-
                     <img
-                      src="/images/home-two/main-image2.png"
+                      src="/images/home-one/main-image1.png"
                       alt="image"
                       data-aos="zoom-in"
                       data-aos-delay="100"
                       data-aos-duration="1200"
-                    />
-                  </div>
-
-                  <div className="circle-img">
-                    <img
-                      src="/images/home-two/home-two-shape6.png"
-                      alt="image"
                     />
                   </div>
                 </div>

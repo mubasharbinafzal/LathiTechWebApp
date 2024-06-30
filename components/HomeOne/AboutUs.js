@@ -15,7 +15,7 @@ const AboutUs = () => {
                 data-aos-duration="1200"
                 data-aos-once="true"
               >
-                <img src="/images/about.png" alt="image" />
+                <img src="/images/about_banner.gif" alt="image" />
               </div>
             </div>
 
@@ -30,9 +30,7 @@ const AboutUs = () => {
                 <span>About Us</span>
                 <h2>Focused On Actionable Insights</h2>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Risus commodo viverra maecenas accumsan lacus vel facilisis.
+                By focusing on actionable insights, we enable you to stay ahead of the competition, adapt to changing market conditions, and make strategic decisions that propel your business forward. Trust us to turn your data into a powerful tool for success..
                 </p>
 
                 <ul className="about-list">

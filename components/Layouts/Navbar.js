@@ -272,7 +272,7 @@ const Navbar = () => {
                 <div className="others-options">
                   <Link href="/contact">
                     <a className="default-btn">
-                      Free Quote
+                      Discuss a Project
                       <span></span>
                     </a>
                   </Link>

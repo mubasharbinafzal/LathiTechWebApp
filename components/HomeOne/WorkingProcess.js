@@ -8,7 +8,7 @@ const WorkingProcess = () => {
         <div className="container">
           <div className="section-title">
             <span>Our Working Process</span>
-            <h2>Software Testing Process</h2>
+            <h2>Software Developing Process</h2>
           </div>
 
           <div className="row justify-content-center">
@@ -20,12 +20,11 @@ const WorkingProcess = () => {
               data-aos-once="true"
             >
               <div className="process-item">
-                <img src="/images/process/process1.png" alt="image" />
+                <img src="/CustomImages/design_planing.png" alt="image" />
 
-                <h3>Planning</h3>
+                <h3>Planning & Design</h3>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore
+                Strategic planning and intuitive design ensure seamless and successful development.
                 </p>
 
                 <Link href="/project-details">
@@ -45,12 +44,11 @@ const WorkingProcess = () => {
               data-aos-once="true"
             >
               <div className="process-item">
-                <img src="/images/process/process2.png" alt="image" />
+                <img src="/CustomImages/development_integration.png" alt="image" />
 
-                <h3>Design & Execution</h3>
+                <h3>Development & Integration</h3>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore
+                Seamless development and integration for robust, scalable, high-performance software solutions.
                 </p>
 
                 <Link href="/project-details">
@@ -70,12 +68,11 @@ const WorkingProcess = () => {
               data-aos-once="true"
             >
               <div className="process-item">
-                <img src="/images/process/process3.png" alt="image" />
+                <img src="/CustomImages/testing_development.png" alt="image" />
 
-                <h3>Analytics Projects</h3>
+                <h3>Testing & Deployment Projects</h3>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore
+                Thorough testing and seamless deployment for successful software project completion.
                 </p>
 
                 <Link href="/project-details">

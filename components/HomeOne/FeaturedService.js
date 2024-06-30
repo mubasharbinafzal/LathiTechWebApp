@@ -48,7 +48,7 @@ const FeaturedService = () => {
 
             <div className="col-lg-6">
               <div className="software-image">
-                <img src="/images/software.png" alt="image" />
+                <img src="/CustomImages/about_us.gif" alt="image" />
               </div>
             </div>
           </div>
