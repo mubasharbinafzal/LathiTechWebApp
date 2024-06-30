@@ -54,47 +54,67 @@ const MainBanner = () => {
                 </div>
 
                 <div className="col-lg-6 col-md-12">
-                <div className="banner-image">
+                  <div className="banner-image">
                     {/* Shape images */}
-                    <img
-                      src="/images/home-one/home-one-shape1.png"
-                      alt="image"
-                      data-aos="zoom-in"
-                      data-aos-delay="100"
-                      data-aos-duration="1200"
-                    />
-
-                    <img
-                      src="/images/home-one/home-one-shape2.png"
+                    {
+                       <img
+                       src="/images/banner.png"
+                       alt="image"
+                       data-aos="zoom-in"
+                       data-aos-delay="100"
+                       data-aos-duration="1200"
+                        width="10"
+                       style={{"width": "600px", marginTop: "40px", marginLeft:"0px"}}
+                     />
+ 
+                    /* <img
+                      src="/images/home-two/home-two-shape1.png"
                       alt="image"
                       data-aos="fade-up"
                       data-aos-delay="100"
                       data-aos-duration="1200"
-                    />
+                    /> */}
 
-                    <img
-                      src="/images/home-one/home-one-shape3.png"
+                    {/* <img
+                      src="/images/home-two/home-two-shape2.png"
                       alt="image"
-                      data-aos="zoom-in"
+                      data-aos="fade-left"
                       data-aos-delay="100"
                       data-aos-duration="1200"
-                    />
+                    /> */}
 
-                    <img
-                      src="/images/home-one/home-one-shape4.png"
+                    {/* <img
+                      src="/images/home-two/home-two-shape3.png"
                       alt="image"
-                      data-aos="zoom-in-up"
+                      data-aos="fade-right"
                       data-aos-delay="100"
                       data-aos-duration="1200"
-                    />
+                    /> */}
 
+                    {/* <img
+                      src="/images/home-two/home-two-shape4.png"
+                      alt="image"
+                      data-aos="fade-up"
+                      data-aos-delay="100"
+                      data-aos-duration="1200"
+                    /> */}
+
+                 
                     {/* Main image */}
+
                     <img
-                      src="/images/home-one/main-image1.png"
+                      src="/images/home-two/main-image2.png"
                       alt="image"
                       data-aos="zoom-in"
                       data-aos-delay="100"
                       data-aos-duration="1200"
+                    />
+                  </div>
+
+                  <div className="circle-img" style={{ width: "850px", }}>
+                    <img
+                      src="/images/home-two/home-two-shape6.png"
+                      alt="image"
                     />
                   </div>
                 </div>
