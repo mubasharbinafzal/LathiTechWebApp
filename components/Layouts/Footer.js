@@ -15,10 +15,7 @@ const Footer = () => {
                   <h3>About Us</h3>
                 </div>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                  laboris nisi ut aliquip ex ea commodo consequat.
+                LathiTech is dedicated to delivering innovative mobile, web, and desktop app solutions, coupled with exceptional UX/UI design, to enhance user experience and drive business success.
                 </p>
 
                 <ul className="footer-social">

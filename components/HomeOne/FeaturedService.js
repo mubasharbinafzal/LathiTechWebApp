@@ -11,36 +11,39 @@ const FeaturedService = () => {
                 <span>Our Featured Services</span>
                 <h2>Software Developement Services</h2>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Quis ipsum suspendisse ultrices Lorem Ipsum is simply dummy
-                  text.
+                LathiTech offers expert mobile (iOS, Android), desktop, and web app development services, delivering innovative solutions with top-notch UX/UI design for all screen sizes to drive business growth.
                 </p>
 
                 <ul className="features-list">
                   <li>
-                    <span>Software Development</span>
+                    <span>Mobile App Development (IOS and Android)</span>
                   </li>
                   <li>
-                    <span>Automatic Optimization</span>
+                    <span>Responsive Web App Development</span>
                   </li>
                   <li>
-                    <span>Applicatication Services</span>
+                    <span>Desktop Application Development</span>
                   </li>
                   <li>
-                    <span>IT Security Services</span>
+                    <span>UX/UI Design and Prototyping</span>
                   </li>
                   <li>
-                    <span>Data Analytics</span>
+                    <span>Cross-Platform App Solutions</span>
                   </li>
                   <li>
-                    <span>System Integration Service</span>
+                    <span>API Integration and Development</span>
                   </li>
                   <li>
-                    <span>Help Desk Services</span>
+                    <span>Maintenance and Support</span>
                   </li>
                   <li>
-                    <span>API Integration Service</span>
+                    <span>Performance Optimization and Testing</span>
+                  </li>
+                  <li>
+                    <span> Deployment on Apple Store, Google play store,Google Firebase</span>
+                  </li>
+                  <li>
+                    <span>Deployment on Clouds Aws, Cpanel,Microsoft Azure,Heroku,DigitalOcean </span>
                   </li>
                 </ul>
               </div>

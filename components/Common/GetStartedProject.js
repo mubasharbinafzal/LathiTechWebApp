@@ -12,10 +12,7 @@ const GetStartedProject = () => {
                 <span>Let’s Get Started</span>
                 <h3>Are you ready for a better, more productive business </h3>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Quis ipsum suspendisse ultrices Lorem Ipsum is simply dummy
-                  text.
+                Are you ready for a better, more productive business? Partner with LathiTech for top-tier mobile, desktop, and web app development, along with exceptional UX/UI design tailored to your needs.
                 </p>
 
                 <div className="productive-btn">
