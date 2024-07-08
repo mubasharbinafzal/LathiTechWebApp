@@ -34,21 +34,33 @@ const AboutUs = () => {
                 </p>
 
                 <ul className="about-list">
+                <li>
+                    
+                    <i className="flaticon-tick"></i>
+                    Transforming Your Vision into Innovative Apps
+                  </li>
+                  <li>
+                    
+                    <i className="flaticon-tick"></i>
+                    UI/UX Design for Enhanced User Engagement
+                  </li>
+                  <li>
+                    
+                    <i className="flaticon-tick"></i>
+                    Custom Mobile App Development for Android & iOS
+                  </li>
+                  
                   <li>
                     <i className="flaticon-tick"></i>
-                    Professional Consultancy Service
+                    Web App Development
                   </li>
                   <li>
                     <i className="flaticon-tick"></i>
-                    24/7 Support Center
+                    Deployment of Mobile and Web Apps on Google Play, App Store, and Servers
                   </li>
                   <li>
                     <i className="flaticon-tick"></i>
-                    Custom Service & Operation
-                  </li>
-                  <li>
-                    <i className="flaticon-tick"></i>
-                    Advanced Advisory Team
+                    Transform your website into mobile apps with synchronized data for seamless user experience across all devices..
                   </li>
                 </ul>
 
