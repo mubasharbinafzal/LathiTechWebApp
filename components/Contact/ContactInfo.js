@@ -12,10 +12,11 @@ const ContactInfo = () => {
                 <div className="content-title">
                   <h3>Address</h3>
                   <p>
-                    32 st Kilda Road, Melbourne VIC, <br /> 3004 Australia
+                  65 devere garden 
+                  IG1 3EF ILFORD, <br /> 3004 Australia
                   </p>
                 </div>
-              </div>
+              </div>// 32 st Kilda Road, Melbourne VIC, <br /> 3004 Australia
             </div>
 
             <div className="col-lg-4 col-md-6">

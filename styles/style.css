@@ -1093,6 +1093,11 @@ Main Banner Two Area CSS
   right: 50px;
   width: 800px;
 }
+.main-banner-two .main_banner{
+  width: 70%;
+  left: 107px !important;
+  top: -243px !important;
+}
 .main-banner-two .circle-img img {
   -webkit-animation-name: rotateMe;
           animation-name: rotateMe;
