@@ -12,11 +12,11 @@ const ContactInfo = () => {
                 <div className="content-title">
                   <h3>Address</h3>
                   <p>
-                  65 devere garden 
-                  IG1 3EF ILFORD, <br /> 3004 Australia
+                  65 devere garden IG1 3EF  London,Uk 
+                 
                   </p>
                 </div>
-              </div>// 32 st Kilda Road, Melbourne VIC, <br /> 3004 Australia
+              </div>
             </div>
 
             <div className="col-lg-4 col-md-6">
@@ -24,8 +24,8 @@ const ContactInfo = () => {
                 <i className="fa fa-envelope"></i>
                 <div className="content-title">
                   <h3>Email</h3>
-                  <p>hello@raxr.com</p>
-                  <p>fax@raxr.com</p>
+                  <p>lt.lathitech@gmail.com</p>
+                  <p></p>
                 </div>
               </div>
             </div>
@@ -35,8 +35,8 @@ const ContactInfo = () => {
                 <i className="fa fa-phone"></i>
                 <div className="content-title">
                   <h3>Phone</h3>
-                  <p>+123 (456) 123</p>
-                  <p>+123 (534) 445</p>
+                  <p>+447301843557</p>
+                  <p>+923077770014</p>
                 </div>
               </div>
             </div>

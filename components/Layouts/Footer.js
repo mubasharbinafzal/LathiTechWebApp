@@ -168,9 +168,7 @@ const Footer = () => {
           <img src="/images/shape/partnar-shape-2.png" alt="image" />
         </div>
       </footer>
-      {/* End Top Footer Section */}
-
-      {/* Bottom Footer Section */}
+    
       <div className="copyright-area">
         <div className="container">
           <div className="row align-items-center">
