@@ -15,10 +15,15 @@ const ContactInfo = () => {
                  UK:  65 devere garden IG1 3EF  London,Uk 
                  
                   </p>
+                 
+                </div>
+                <div className="content-title">
+                 
                   <p>
-                 Pk:  496-E TAJPURA SCHEME LAHORE, PAKISTAN
+                  PK : PLAZA no. 496-E FIRST FLOOR   TAJPURA SCHEME LAHORE, PAKISTAN
                  
                   </p>
+                 
                 </div>
               </div>
             </div>
