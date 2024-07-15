@@ -127,19 +127,31 @@ const Footer = () => {
                 <div className="footer-info-contact">
                   <i className="flaticon-call-answer"></i>
                   <h3>Phone</h3>
-                  <span>+123(456)123</span>
+                  <span>+447301843557</span>
+                  
+                </div>
+                <div className="footer-info-contact">
+                 
+                 
+                  <span>+923077770014</span>
+                  
                 </div>
 
                 <div className="footer-info-contact">
                   <i className="flaticon-envelope"></i>
                   <h3>Email</h3>
-                  <span>hello@raxr.com</span>
+                  <span>lt.lathitech@gmail.com</span>
                 </div>
+                
 
                 <div className="footer-info-contact">
                   <i className="flaticon-maps-and-flags"></i>
                   <h3>Address</h3>
-                  <span>32 st Kilda Road, Melbourne VIC, 3004 Australia</span>
+                  <span>32 65 devere garden, IG1 3EF  London,Uk</span>
+                </div>
+                <div className="footer-info-contact">
+                  
+                  <span>PLAZA no. 496-E FIRST FLOOR   TAJPURA SCHEME LAHORE, PAKISTAN</span>
                 </div>
               </div>
             </div>
