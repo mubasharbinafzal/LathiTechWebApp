@@ -126,14 +126,14 @@ const Footer = () => {
 
                 <div className="footer-info-contact">
                   <i className="flaticon-call-answer"></i>
-                  <h3>Phone</h3>
-                  <span>+447301843557</span>
+                  <h3> Phone</h3>
+                  <span>Uk  : +447301843557</span>
                   
                 </div>
                 <div className="footer-info-contact">
                  
                  
-                  <span>+923077770014</span>
+                  <span>Pk : +923077770014</span>
                   
                 </div>
 

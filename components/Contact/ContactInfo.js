@@ -12,7 +12,11 @@ const ContactInfo = () => {
                 <div className="content-title">
                   <h3>Address</h3>
                   <p>
-                  65 devere garden IG1 3EF  London,Uk 
+                 UK:  65 devere garden IG1 3EF  London,Uk 
+                 
+                  </p>
+                  <p>
+                 Pk:  496-E TAJPURA SCHEME LAHORE, PAKISTAN
                  
                   </p>
                 </div>
@@ -35,8 +39,8 @@ const ContactInfo = () => {
                 <i className="fa fa-phone"></i>
                 <div className="content-title">
                   <h3>Phone</h3>
-                  <p>+447301843557</p>
-                  <p>+923077770014</p>
+                  <p>Uk: +447301843557</p>
+                  <p>Pk: +923077770014</p>
                 </div>
               </div>
             </div>
