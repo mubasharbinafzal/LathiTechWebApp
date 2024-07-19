@@ -28,7 +28,7 @@ const OurServices = () => {
                 
                 <div className="icon" style={{"line-height": "37px"}}>
                 <img
-                    src="/CustomImages/idea.png"
+                    src="/CustomImages/Idea.png"
                     className="white-logo"
                     alt="Mobile Logo"
                     style={{"width": "25px"}}
