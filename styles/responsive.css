@@ -179,7 +179,10 @@
     display: none;
   }
   .main-banner-two .banner-image img:nth-child(2) {
-    display: none;
+    right: 0% !important;
+    top: 0px !important;
+    width: 50% !important;
+    margin: 0 auto;
   }
   .main-banner-two .banner-image img:nth-child(3) {
     display: none;
@@ -703,6 +706,10 @@
   .solutions-list-tab .react-tabs .react-tabs__tab-list li {
     padding-right: 20px;
     padding-left: 20px;
+  }
+  .main-banner-two .banner-image img:nth-child(2) {
+    right: 0% !important;
+    top: 0px !important;
   }
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
